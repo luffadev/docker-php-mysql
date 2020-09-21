@@ -71,6 +71,7 @@
         return $data;
     }
     ?>
+    
     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" name="frmAdd" method="post">
         <table width="284" border="1">
             <tr>
